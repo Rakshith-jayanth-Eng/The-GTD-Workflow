@@ -1,0 +1,8 @@
+{
+  "name": "GTD Micro-SaaS Studio",
+  "description": "Full-stack Getting Things Done (GTD) Micro-SaaS architecture, live interactive engine, and complete Flutter & FastAPI production codebases.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
